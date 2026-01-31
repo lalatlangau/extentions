@@ -1,7 +1,4 @@
-name: Build with Gradle
-      run: |
-        chmod +x gradlew
-        ./gradlew make
+name: Build
 
 on:
   push:
