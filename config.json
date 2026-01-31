@@ -1,0 +1,23 @@
+{
+  "domain": "https://hidekielectronics.com",
+  "plugin_name": "Dutamovie",
+  "template": "WordPress Movie Theme",
+  "selectors": {
+    "movie_list": "article.item-infinite",
+    "title": "h2.entry-title a",
+    "poster": "img",
+    "quality": "span.quality",
+    "link": "h2.entry-title a",
+    "description": "div.entry-content p",
+    "genre": "div.genre a",
+    "year": "span.year",
+    "rating": "span.rating",
+    "iframe": "div.player-embed iframe",
+    "download_links": "div.download-links a"
+  },
+  "pages": {
+    "search": "/?s=",
+    "latest": "/page/",
+    "genre": "/genre/{genre}/page/"
+  }
+}

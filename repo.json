@@ -1,0 +1,8 @@
+{
+  "name": "Dutamovie Repository",
+  "description": "Cloudstream repository untuk Dutamovie",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/YOUR-USERNAME/cloudstream-dutamovie/builds/plugins.json"
+  ]
+}
